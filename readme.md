@@ -20,6 +20,7 @@ para clonar
 
 
 
+
 para actualizar el repo local 
 
 1) git pull origin master 
