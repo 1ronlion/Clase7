@@ -20,10 +20,17 @@ para clonar
 
 
 
-
 para actualizar el repo local 
 
 1) git pull origin master 
+
+
+
+para crear una nueva branch 
+
+1) git branch "nombre de la nueva rama"
+
+2) git checkout -b  "nombre de la nueva rama"
 
 
 
