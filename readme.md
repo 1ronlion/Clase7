@@ -33,6 +33,11 @@ para crear una nueva branch
 2) git checkout -b  "nombre de la nueva rama"
 
 
+para fusionar ramas 
+
+1) git merge "nombre de la rama" 
+
+
 
 
 
