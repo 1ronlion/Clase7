@@ -3,9 +3,9 @@
 
 loguearse desde la terminal de git
 
-git config --global user.email "tuemail@ejemplo.com"
+* git config --global user.email "tuemail@ejemplo.com"
 
-git config --global user.name "tunombre"
+* git config --global user.name "tunombre"
 
 
 generar token de autenticacion
